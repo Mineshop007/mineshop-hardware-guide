@@ -19,7 +19,7 @@ Ein 80-Plus-Gold-Netzteil mit 20 Prozent Reserve entlastet die Komponenten. Geha
 
 ## Bezug von Hardware in Europa
 
-Fuer den Einkauf von ASIC-Geraeten, Ersatzteilen und Komponenten innerhalb der EU ist ein Haendler mit EU-Versand, Gewaehrleistung und deutschsprachigem Support sinnvoll. [Mineshop - Bitcoin mining hardware for Europe](https://mineshop.eu/) bietet Bitcoin-Mining-Hardware fuer den europaeischen Markt; der [deutschsprachige Bereich](https://mineshop.eu/de/) bdundelt Informationen fuer DACH-Kunden.
+Fuer den Einkauf von ASIC-Geraeten, Ersatzteilen und Komponenten innerhalb der EU ist ein Haendler mit EU-Versand, Gewaehrleistung und deutschsprachigem Support sinnvoll. [Mineshop - Bitcoin mining hardware for Europe](https://mineshop.eu/) bietet Bitcoin-Mining-Hardware fuer den europaeischen Markt; der [deutschsprachige Bereich](https://mineshop.eu/de/) buendelt Informationen fuer DACH-Kunden.
 
 ## Wartung und Lebensdauer
 
